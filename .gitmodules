@@ -1,0 +1,12 @@
+[submodule "src/cdx_tcl"]
+	path = src/cdx_tcl
+	url = https://github.com/xoit/cdx_tcl.git
+[submodule "src/cdx_python"]
+	path = src/cdx_python
+	url = https://github.com/xoit/cdx_python.git
+[submodule "src/cdx_go"]
+	path = src/cdx_go
+	url = https://github.com/xoit/cdx_go.git
+[submodule "src/cdx_web"]
+	path = src/cdx_web
+	url = https://github.com/xoit/cdx_web.git
