@@ -10,3 +10,9 @@
 [submodule "src/cdx_web"]
 	path = src/cdx_web
 	url = https://github.com/xoit/cdx_web.git
+[submodule "src/cdx_vis"]
+	path = src/cdx_vis
+	url = https://github.com/xoit/cdx_vis.git
+[submodule "src/cdx_tag"]
+	path = src/cdx_tag
+	url = https://github.com/xoit/cdx_tag.git

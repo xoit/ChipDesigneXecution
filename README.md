@@ -11,6 +11,7 @@ The goal is to build an infrastructure for each individual Chip Designer to mana
 
 - [Directed Acyclic Graph](spec/dag.md)
 - [Chip Design Process](spec/process.md)
+- [Plugin System](spec/plugin.md)
 
 ## TODO
 
