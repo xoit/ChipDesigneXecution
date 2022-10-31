@@ -7,6 +7,13 @@ The goal is to build an infrastructure for each individual Chip Designer to mana
 
 It could also be used for small team or big organization.
 
+Our system architecture are still in 0.x status.
+
+We will change the implementation if there is a simplier way.
+
+> Let "cdx" deal with the complexity.
+> Leave the simplicity to you.
+
 "cdx" is the shortname of ChipDesigneXecution.
 
 ## Specification
