@@ -44,3 +44,6 @@ Here is the link to ["ReadTheDocs"](https://chipdesignexecution-document.readthe
 - [mflowgen](https://github.com/mflowgen/mflowgen)
 - [openlane](https://github.com/The-OpenROAD-Project/OpenLane)
 - [siliconcompiler](https://github.com/siliconcompiler/siliconcompiler)
+- [graphviz](https://graphviz.org/resources/)
+- [allspice](https://www.allspice.io/)
+
