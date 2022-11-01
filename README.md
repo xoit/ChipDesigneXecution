@@ -20,13 +20,19 @@ Here is the link to ["ReadTheDocs"](https://chipdesignexecution-document.readthe
 ## Specification
 
 - [Directed Acyclic Graph](spec/dag.md)
-- [Chip Design Process](spec/practice.md)
+- [Chip Design Process](spec/process.md)
 - [Plugin System](spec/plugin.md)
+- [Hotfix System](spec/hotfix.md)
+- [Configuration](spec/config.md)
 - [Tag System](spec/tag.md)
 - [Git for Hardware Design Cycles](spec/vcs.md)
 - [Testing](spec/test.md)
-- [Coutinue Integration and Coutinue Development](spec/cicd.md)
-- [Dataset Design](spec/dataset.md)
+- [Coutinue Integration and Development](spec/cicd.md)
+- [Dataset / Configuration](spec/dataset.md)
+
+## User Story
+
+- [Effort on Migration / Knowledge Transfer](spec/user_story/effort_on_migration.md)
 
 ## TODO
 
