@@ -16,3 +16,9 @@
 [submodule "src/cdx_tag"]
 	path = src/cdx_tag
 	url = https://github.com/xoit/cdx_tag.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/xoit/cdx_doc.git
+[submodule "src/cdx_knb"]
+	path = src/cdx_knb
+	url = https://github.com/xoit/cdx_knb.git
