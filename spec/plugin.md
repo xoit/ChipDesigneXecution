@@ -1,4 +1,0 @@
-<!--
- * @LastEditors: SteveL
--->
-# Plugin system
