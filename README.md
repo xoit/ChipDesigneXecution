@@ -9,30 +9,30 @@ It could also be used for small team or big organization.
 
 Our system architecture are still in 0.x status. We will change the implementation if there is a simplier way.
 
-> Let "cdx" deal with the complexity.
 >
+> Let "cdx" deal with the complexity.<br>
 > Leave the simplicity to you.
-
+>
 "cdx" is the shortname of ChipDesigneXecution.
 
-Here is the link to ["ReadTheDocs"](https://chipdesignexecution-document.readthedocs.io/)
+Here is the link to ["ReadTheDocs"](https://chipdesignexecution.readthedocs.io/)
 
 ## Specification
 
-- [Directed Acyclic Graph](./docs/source/spec/dag.md)
-- [Chip Design Process](./docs/source/spec/process.md)
-- [Plugin System](./docs/source/spec/plugin.md)
-- [Hotfix System](./docs/source/spec/hotfix.md)
-- [Configuration](./docs/source/spec/config.md)
-- [Tag System](./docs/source/spec/tag.md)
-- [Git for Hardware Design Cycles](./docs/source/spec/vcs.md)
-- [Testing](./docs/source/spec/test.md)
-- [Coutinue Integration and Development](./docs/source/spec/cicd.md)
-- [Dataset / Configuration](./docs/source/spec/dataset.md)
+- [Directed Acyclic Graph](docs/source/spec/dag.md)
+- [Chip Design Process](docs/source/spec/process.md)
+- [Plugin System](docs/source/spec/plugin.md)
+- [Hotfix System](docs/source/spec/hotfix.md)
+- [Configuration](docs/source/spec/config.md)
+- [Tag System](docs/source/spec/tag.md)
+- [Git for Hardware Design Cycles](docs/source/spec/vcs.md)
+- [Testing](docs/source/spec/test.md)
+- [Coutinue Integration and Development](docs/source/spec/cicd.md)
+- [Dataset / Configuration](docs/source/spec/dataset.md)
 
 ## User Story
 
-- [Effort on Migration / Knowledge Transfer](./docs/source/story/effort_on_migration.md)
+- [Effort on Migration / Knowledge Transfer](docs/source/story/effort_on_migration.md)
 
 ## TODO
 
