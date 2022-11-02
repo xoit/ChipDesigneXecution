@@ -19,16 +19,16 @@ Here is the link to ["ReadTheDocs"](https://chipdesignexecution.readthedocs.io/)
 
 ## Specification
 
-- [Directed Acyclic Graph](docs/source/spec/dag.md)
-- [Chip Design Process](docs/source/spec/process.md)
-- [Plugin System](docs/source/spec/plugin.md)
-- [Hotfix System](docs/source/spec/hotfix.md)
-- [Configuration](docs/source/spec/config.md)
-- [Tag System](docs/source/spec/tag.md)
-- [Git for Hardware Design Cycles](docs/source/spec/vcs.md)
-- [Testing](docs/source/spec/test.md)
-- [Coutinue Integration and Development](docs/source/spec/cicd.md)
-- [Dataset / Configuration](docs/source/spec/dataset.md)
+- [Directed Acyclic Graph](https://github.com/xoit/cdx_doc/blob/main/source/spec/dag.md)
+- [Chip Design Process](https://github.com/xoit/cdx_doc/blob/main/source/spec/process.md)
+- [Plugin System](https://github.com/xoit/cdx_doc/blob/main/source/spec/plugin.md)
+- [Hotfix System](https://github.com/xoit/cdx_doc/blob/main/source/spec/hotfix.md)
+- [Configuration](https://github.com/xoit/cdx_doc/blob/main/source/spec/config.md)
+- [Tag System](https://github.com/xoit/cdx_doc/blob/main/source/spec/tag.md)
+- [Git for Hardware Design Cycles](https://github.com/xoit/cdx_doc/blob/main/source/spec/vcs.md)
+- [Testing](https://github.com/xoit/cdx_doc/blob/main/source/spec/test.md)
+- [Coutinue Integration and Development](https://github.com/xoit/cdx_doc/blob/main/source/spec/cicd.md)
+- [Dataset / Configuration](https://github.com/xoit/cdx_doc/blob/main/source/spec/dataset.md)
 
 ## User Story
 
