@@ -10,7 +10,7 @@ It could also be used for small team or big organization.
 Our system architecture are still in 0.x status. We will change the implementation if there is a simplier way.
 
 >
-> Let "cdx" deal with the complexity.<br>
+> Let "cdx" deal with the complexity. \\
 > Leave the simplicity to you.
 >
 "cdx" is the shortname of ChipDesigneXecution.
@@ -32,7 +32,7 @@ Here is the link to ["ReadTheDocs"](https://chipdesignexecution.readthedocs.io/)
 
 ## User Story
 
-- [Effort on Migration / Knowledge Transfer](docs/source/story/effort_on_migration.md)
+- [Effort on Migration / Knowledge Transfer](https://github.com/xoit/cdx_doc/blob/main/source/story/effort_on_migration.md)
 
 ## TODO
 
