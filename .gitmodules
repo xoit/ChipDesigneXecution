@@ -1,0 +1,6 @@
+[submodule "assets/tcl/cdx"]
+	path = assets/tcl/cdx
+	url = git@github.com:xoit/cdx_tcl.git
+[submodule "assets/python/cdx"]
+	path = assets/python/cdx
+	url = git@github.com:xoit/cdx_python.git
