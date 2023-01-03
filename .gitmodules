@@ -4,3 +4,9 @@
 [submodule "assets/python/cdx"]
 	path = assets/python/cdx
 	url = git@github.com:xoit/cdx_python.git
+[submodule "assets/cdxpkg"]
+	path = assets/cdxpkg
+	url = git@github.com:xoit/cdx_defpkg.git
+[submodule "assets/go/cdx"]
+	path = assets/go/cdx
+	url = git@github.com:xoit/cdx_go.git
